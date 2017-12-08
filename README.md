@@ -25,7 +25,7 @@ Text present in two columns on the source PDF are copied into a two column forma
 
 New paragraphs are marked with a single line break and two space indent
 
-  E.G. In this manner
+__E.G. In this manner
   
 Sections that have a line under the section title are accomplished by filling the line with spaces and underlining the entirety of the line.
 
